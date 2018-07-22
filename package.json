@@ -1,0 +1,10 @@
+{
+  "name": "labrador",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf2json": "^1.1.7"
+  }
+}
